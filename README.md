@@ -1,5 +1,5 @@
 # geo_map
-Simple HTML script to read location data from a .js file and display on a Google Map
+Simple HTML script to read location data from a .js file and display on a Google Map. Please update your home location to the homeLatlng variable.
 
 Please note the original HTML code comes direct from the
 [Using Databases with Python](https://www.coursera.org/learn/python-databases/) course on Coursera,
